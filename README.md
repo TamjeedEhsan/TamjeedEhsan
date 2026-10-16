@@ -7,21 +7,12 @@ My long-term goal is to build scalable data and AI systems that solve meaningful
 
 ## Technical Skills
 
-- **Languages:** Python, SQL, JavaScript, HTML, CSS
-- **Databases:** PostgreSQL, MongoDB
+- **Languages:** Python, Java, SQL, JavaScript, HTML, CSS
+- **Databases:** PostgreSQL, MongoDB, Supabase
 - **Data Engineering:** ETL/ELT Pipelines, Data Cleaning, Web Scraping, Docker
-- **Machine Learning:** Scikit-learn, Pandas, NumPy, Model Evaluation, Feature Engineering
-- **Computer Vision:** OpenCV, Image Processing
-- **Tools:** Git, GitHub, Linux
-
-
-tems
+- **Frameworks and Tools:** Scikit-learn, Pandas, NumPy, Matplotlib, FastAPI, FFmpeg, Git, GitHub, Linux, OpenCV, BLIP-BART
 
 ## Connect with Me
 
 - **LinkedIn:** [Tamjeed Ehsan](https://www.linkedin.com/in/tamjeed-ehsan-4583a3316/)
 
-
----
-
-*Always learning, building, and exploring the intersection of data engineering and intelligent systems.*
